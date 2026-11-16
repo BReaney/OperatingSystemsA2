@@ -2,7 +2,7 @@
 
 ## Deliverable A (Design, /2.5)
 
-2.5/2.5 — Design document (`p2-A-breaney-V01042450.txt`) submitted and reasonable.
+2.5/2.5 — Design document submitted and reasonable.
 
 ## Deliverable B (Code, /12.5)
 
